@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="create_category">Create category</string>
+    <string name="name_category">Name category</string>
+    <string name="key_category">key category</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="categories">Categories</string>
+    <string name="news">News</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="limit">Limit</string>
+    <string name="date">Date</string>
+    <string name="update">Update</string>
+
+</resources>
